@@ -1,4 +1,4 @@
-#yo
+# to do: add fastsim option
 import FWCore.ParameterSet.Config as cms
 
 from FWCore.ParameterSet.VarParsing import VarParsing
